@@ -74,7 +74,7 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .bg-defult {
-  background: #3c9cfd !important;
+  background: #1bee5b !important;
 }
 
 /* ==========================================================================
@@ -234,7 +234,7 @@ a:not([href]):not([tabindex]):hover {
   border-width: 2px;
   border-color: #3c96ff;
   border-style: solid;
-  background: linear-gradient(to right, #3c96ff 0%, #2dfbff 100%);
+  background: linear-gradient(to right, #3ecf8e 0%, #2dfbff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   transition: all 0.3s ease-in-out;
@@ -244,7 +244,7 @@ a:not([href]):not([tabindex]):hover {
 }
 
 .btn-apple i {
-  background: linear-gradient(to right, #3c96ff 0%, #2dfbff 100%);
+  background: linear-gradient(to right, #3ecf8e 0%, #2dfbff 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -252,7 +252,7 @@ a:not([href]):not([tabindex]):hover {
 .btn-apple:hover,
 .btn-apple:active,
 .btn-apple:focus {
-  background: linear-gradient(to right, #3c96ff 0%, #2dfbff 100%) !important;
+  background: linear-gradient(to right, #3ecf8e 0%, #2dfbff 100%) !important;
   -webkit-background-clip: text !important;
   -webkit-text-fill-color: transparent !important;
 }
@@ -362,7 +362,7 @@ button:focus {
   height: 100%;
   border-radius: 100%;
   border: 7px solid transparent;
-  border-top-color: #3c9cfd;
+  border-top-color: #3ecf8e;
 }
 
 #loader-1:before {
@@ -403,8 +403,8 @@ button:focus {
   cursor: pointer;
   text-align: center;
   border-radius: 4px;
-  background: #5533ff;
-  background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
+  background: #3ecf8e;
+  background: linear-gradient(95deg, #3ecf8e 40%, #25ddf5 100%);
   box-shadow: 0px 8px 9px 0px rgba(96, 94, 94, 0.17);
   z-index: 9999999;
 }
@@ -427,8 +427,8 @@ button:focus {
 }
 
 .menu-bg {
-  background: #5533ff;
-  background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%) !important;
+  background: #3ecf8e;
+  background: linear-gradient(95deg, #3ecf8e 40%, #25ddf5 100%) !important;
   box-shadow: 0 0 7px 1px rgba(0, 0, 0, 0.1);
   z-index: 9999;
   padding: 5px;
@@ -536,8 +536,8 @@ button:focus {
   height: 100%;
   top: 0px;
   left: 0px;
-  background: #5533ff;
-  background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
+  background: #3ecf8e;
+  background: linear-gradient(95deg, #3ecf8e 40%, #25ddf5 100%);
   -webkit-transform: skewY(-12deg);
   transform: skewY(-12deg);
   -webkit-transform-origin: 0;
@@ -551,16 +551,16 @@ button:focus {
   left: 16.66666%;
   left: calc(calc(100% / 3) / 2);
   right: auto;
-  background: #5533ff;
-  background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
+  background: #3ecf8e;
+  background: linear-gradient(95deg, #3ecf8e 40%, #25ddf5 100%);
   height: 200px;
 }
 .hero-area .overlay :nth-child(2) {
   width: 33.33333%;
   width: calc(100% / 3);
   bottom: 0;
-  background: #5533ff;
-  background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
+  background: #3ecf8e;
+  background: linear-gradient(95deg, #3ecf8e 40%, #25ddf5 100%);
   position: absolute;
   height: 155px;
   left: 3%;
@@ -896,8 +896,8 @@ button:focus {
   color: #fff;
 }
 #showcase .gradient-bg {
-  background: #5533ff;
-  background: linear-gradient(95deg, #5533ff 40%, #25ddf5 100%);
+  background: #3ecf8e;
+  background: linear-gradient(95deg, #3ecf8e 40%, #25ddf5 100%);
   padding: 119px 0px 80px 0px;
 }
 #showcase .showcase-slider .owl-controls .owl-page.active span,
