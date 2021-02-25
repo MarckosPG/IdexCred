@@ -1648,7 +1648,7 @@ button:focus {
    ========================================================================== */
 #footer-Content {
   padding-top: 130px;
-  background: #180e29;
+  background: #424144;
 }
 #footer-Content .footer-logo img {
   padding-top: 70px;
@@ -1660,7 +1660,7 @@ button:focus {
 }
 #footer-Content .copyright {
   margin-top: 125px;
-  border-top: 1px solid #3c1f6e;
+  border-top: 1px solid #1b1a1d;
   padding-top: 30px;
   padding-bottom: 30px;
 }
